@@ -1,1 +1,2 @@
-var bebe = ("Afternoon");
+var bebe = "Afternoon"
+console.log(bebe);
